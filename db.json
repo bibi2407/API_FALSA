@@ -6,32 +6,10 @@
       "email": "bibihernandezlargo@gmail.com",
       "contraseña": "21082005",
       "id": 1
-    },
-    {
-      "rol": 1,
-      "nombre": "Tania hernandez",
-      "email": "taniahernandez@gmail.com",
-      "contraseña": "123456789",
-      "id": 2
     }
   ],
-  "Tickets": [
-    {
-      "id": 101,
-      "solicitante": "Bibi hernandez",
-      "servicio": "Internet",
-      "fecha": "15-05-2023",
-      "hora": "08:00",
-      "descripcion": "No tengo",
-      "userId": 1
-    },
-    {
-      "solicitante": "Alex",
-      "servicio": "WIFI",
-      "fecha": "2023-11-15",
-      "hora": "12:14",
-      "descripcion": "No tengo internet",
-      "id": 102
-    }
-  ]
+  "Tickets": [],
+  "Responder": [],
+  "ChatA": [],
+  "ChatC": []
 }
